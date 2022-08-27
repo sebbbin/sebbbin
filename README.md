@@ -3,9 +3,9 @@
 
 📧 email : nsb08045@daum.net
 
-📰 blog : 
+📰 blog : https://sebbb-in.tistory.com/
 
-🖨 Portfolio : 
+🖨 Portfolio : https://bitter-plane-3af.notion.site/Portfolio-ea4cc025589c464c87c399f1800680d5
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebbbin&show_icons=true&theme=github_dark)
 
