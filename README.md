@@ -5,6 +5,8 @@
 
 📰 blog : https://sebbb-in.tistory.com/
 
+What I like : Listening music ! 🎧
+
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebbbin&show_icons=true&theme=github_dark)
 
@@ -31,7 +33,7 @@
 2022.08- SSU_DEV_CAMP - 22sdc_ssu_oauth_aos Certify that you are a SoongSil University Student   <img src="https://img.shields.io/badge/Kotlin-purple?style=flat&logo=Kotlin&logoColor=an7F52FF"/>  <img src="https://img.shields.io/badge/Android Studio-green?style=flat&logo=Android Studio&logoColor=3DDC84"/> 
 
 
-What I like : Listening music ! 🎧
+
 
 
 <!--
