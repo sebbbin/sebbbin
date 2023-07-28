@@ -7,6 +7,7 @@
 https://blog.naver.com/you08045 (TMI 가득)
 
 What I like : Listening music ! 🎧
+ex) Ha Hyun Sang, ,,
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebbbin&show_icons=true&theme=github_dark)
