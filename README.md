@@ -33,8 +33,11 @@ ex) Ha Hyun Sang, ,,
 2022.07-09 SSU Summer SW Contest - SSU_PER_PET (PERPET) - Pet APP  <img src="https://img.shields.io/badge/Flutter-blue?style=flat&logo=Flutter&logoColor=02569B"/>  <img src="https://img.shields.io/badge/Dart-gray?style=flat&logo=Dart&logoColor=0175C2"/> 
 
 2022.08- SSU_DEV_CAMP - 22sdc_ssu_oauth_aos Certify that you are a SoongSil University Student   <img src="https://img.shields.io/badge/Kotlin-purple?style=flat&logo=Kotlin&logoColor=an7F52FF"/>  <img src="https://img.shields.io/badge/Android Studio-green?style=flat&logo=Android Studio&logoColor=3DDC84"/> 
+
 2023.09-12 사용자인터페이스 및 실습(Android +firebase)
+
 2023.01-02. UMC - 거꾸로가계부 (spring(Java))
+
 2023.06-08 SSU Summer SW Contest - HeAIth (spring(Java))
 
 
