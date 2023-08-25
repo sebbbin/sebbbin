@@ -5,7 +5,7 @@
 
 📰 blog : https://sebbb-in.tistory.com/
 
-https://blog.naver.com/you08045
+          https://blog.naver.com/you08045
 
 What I like : Listening music ! 🎧
 ex) Ha Hyun Sang, ,,
