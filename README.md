@@ -41,7 +41,7 @@ ex) Ha Hyun Sang, ,,
 
 2023.06-08 SSU Summer SW Contest - HeAIth (spring(Java))
 
-
+2023.06-08 GDSC festival / SSU Devcon 여친 api - Backend(Aws Lambda (python))
 
 <!--
 **sebbbin/sebbbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
