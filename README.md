@@ -43,6 +43,8 @@ ex) Ha Hyun Sang, ,,
 
 2023.06-08 GDSC festival / SSU Devcon 여친 api - Backend(Aws Lambda (python))
 
+2023.09-12 삼성증권 IT 학회 프로그램
+
 <!--
 **sebbbin/sebbbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🏫
