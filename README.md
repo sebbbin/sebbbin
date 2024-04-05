@@ -37,14 +37,18 @@ ex) Ha Hyun Sang, ,,
 ### [2023]
 - [창업/기획] Global Startup callenge in Sydney
 - [Lambda(Python)] GDSC-SSU-’up-date-cli’
+
 **🏆 컴퓨터학부 소프트웨어공모전 “학장상” (전체 2등)**
 - [AI/ Spring(Java)] 컴퓨터학부 소프트웨어공모전 - healthoongjang
+  
 **🏆  HDmedi 프로젝트 “장려상”**
 - [Spring(Java)] kusitms - 기업프로젝트(HDmedi) - ‘아이약’
 - [Spring(Java)] kusitms- 해커톤 - ‘우리동네지킴이’
 - [Spring(Java)] kusitms - 여행아카이빙 서비스 ‘갈래’
+  
 **🏆 숭실 발명아이디어 경진대회 “우수상” (전체 3등)**
 - [아이디어] 2023년 숭실 발명아이디어/특허 경진대회
+  
 **🏆삼성증권 디지털/IT 학회 연계 프로그램 “대상” (전체 1등)**
 - [sllm/Docker] 삼성증권 디지털/IT 학회 연계 프로그램
 
