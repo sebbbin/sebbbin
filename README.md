@@ -22,7 +22,7 @@ ex) Ha Hyun Sang, ,,
 <img src="https://img.shields.io/badge/C-skyblue?style=flat&logo=C&logoColor=A8B9CC"/>  <img src="https://img.shields.io/badge/C++-navy?style=flat&logo=C++&logoColor=00599C"/>  <img src="https://img.shields.io/badge/Java-yellow?style=flat&logo=Java&logoColor=F7DF1E"/>  <img src="https://img.shields.io/badge/Python-darkblue?style=flat&logo=Python&logoColor=3776ABE"/>  <img src="https://img.shields.io/badge/Android Studio-green?style=flat&logo=Android Studio&logoColor=3DDC84"/>  <img src="https://img.shields.io/badge/Flutter-blue?style=flat&logo=Flutter&logoColor=02569B"/>  <img src="https://img.shields.io/badge/Dart-gray?style=flat&logo=Dart&logoColor=0175C2"/> 
 #
 ## ✨ Projects (details in repositories)
-
+<!--
 ### [2021]
 - [C] Ci&Ai Summer Team Project - TodoList
 - [Arduino(C)] Hwaseong ICT Living and Cultural Center Makerton - Arduino Hi-Jin
@@ -33,6 +33,7 @@ ex) Ha Hyun Sang, ,,
 - [Flutter(Dart)] SSU Summer SW Contest - SSU_PER_PET (PERPET) - Pet APP
 - [Android/firebase] SoongSil University CSE 사용자인터페이스 및 실습 - MY PET
 - [Spring(Java)] UMC 3기 “거꾸로 가계부”
+-->
 
 ### [2023]
 - [창업/기획] Global Startup callenge in Sydney
