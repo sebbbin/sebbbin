@@ -37,23 +37,25 @@ ex) Ha Hyun Sang, ,,
 - [Spring(Java)] UMC 3기 “거꾸로 가계부”
 -->
 
-### [2023]
-- [창업/기획] Global Startup callenge in Sydney
-- [Lambda(Python)] GDSC-SSU-’up-date-cli’
+## Award
 
-**🏆 컴퓨터학부 소프트웨어공모전 “학장상” (전체 2등)**
-- [AI/ Spring(Java)] 컴퓨터학부 소프트웨어공모전 - healthoongjang
+**🏆 컴퓨터학부 소프트웨어공모전 “학장상”**
+- [AI/ Spring(Java)] 컴퓨터학부 소프트웨어공모전 - 'healthoongjang'
   
 **🏆  HDmedi 프로젝트 “장려상”**
 - [Spring(Java)] kusitms - 기업프로젝트(HDmedi) - ‘아이약’
-- [Spring(Java)] kusitms- 해커톤 - ‘우리동네지킴이’
-- [Spring(Java)] kusitms - 여행아카이빙 서비스 ‘갈래’
   
-**🏆 숭실 발명아이디어 경진대회 “우수상” (전체 3등)**
+**🏆 숭실 발명아이디어 경진대회 “우수상”**
 - [아이디어] 2023년 숭실 발명아이디어/특허 경진대회
   
-**🏆삼성증권 디지털/IT 학회 연계 프로그램 “대상” (전체 1등)**
+**🏆삼성증권 디지털/IT 학회 연계 프로그램 “대상”**
 - [sllm/Docker] 삼성증권 디지털/IT 학회 연계 프로그램
+
+**🏆 컴퓨터학부 소프트웨어공모전 “은상”**
+- [Spring(Java)] 컴퓨터학부 소프트웨어 공모전 - '합주하실'
+
+**🏆 제 2회 SW/콘텐츠 분야 벤터스타트업 아카데미 해커톤 대회 “우수상”, "HACK인싸상"**
+- [Spring(Java)] 서퍼톤 - '발자취'
 
 <!--
 **sebbbin/sebbbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
