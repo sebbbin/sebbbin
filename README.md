@@ -1,14 +1,12 @@
 ### Hi there 👋 I'm sebbbin Welcome🥰
-🏫 Soongsil University CSE 21
+
+✒️ insta : @sebbb_in
 
 📧 email : nsb08045@daum.net
 
 📰 blog : https://sebbb-in.tistory.com/
 
 https://blog.naver.com/you08045
-
-What I like : Listening music ! 🎧
-ex) Ha Hyun Sang, ,,
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebbbin&show_icons=true&theme=github_dark)
@@ -17,13 +15,26 @@ ex) Ha Hyun Sang, ,,
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsebbbin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 #
-<!--
-## 🧸 Experience language
 
-<img src="https://img.shields.io/badge/C-skyblue?style=flat&logo=C&logoColor=A8B9CC"/>  <img src="https://img.shields.io/badge/C++-navy?style=flat&logo=C++&logoColor=00599C"/>  <img src="https://img.shields.io/badge/Java-yellow?style=flat&logo=Java&logoColor=F7DF1E"/>  <img src="https://img.shields.io/badge/Python-darkblue?style=flat&logo=Python&logoColor=3776ABE"/>  <img src="https://img.shields.io/badge/Android Studio-green?style=flat&logo=Android Studio&logoColor=3DDC84"/>  <img src="https://img.shields.io/badge/Flutter-blue?style=flat&logo=Flutter&logoColor=02569B"/>  <img src="https://img.shields.io/badge/Dart-gray?style=flat&logo=Dart&logoColor=0175C2"/> 
+## 🧸 Main Stack (Experienced)
+### **Backend - 🍃Spring(Java)**
+
+**AWS - Cloudfront, RDS, EC2, S3, Redis, Lambda**
+
+**Spring - security, jwt, Junit, swagger, jpa**
+
+**Docker - Docker hub, compose**
+
+**CI/CD - nginx, Github action, CI/CD(blue-gree)**
+
+**DB - SQL(RDS, Postgre, h2), NoSQL(MongoDB)**
+
+**Tool - Slack, Github, Jira**
+
+etc..
 #
--->
-## ✨ Projects (details in repositories)
+
+## ✨ Main Projects (details in pin repositories)
 <!--
 ### [2021]
 - [C] Ci&Ai Summer Team Project - TodoList
@@ -37,7 +48,7 @@ ex) Ha Hyun Sang, ,,
 - [Spring(Java)] UMC 3기 “거꾸로 가계부”
 -->
 
-## Award
+## 🏅 Award
 
 **🏆 컴퓨터학부 소프트웨어공모전 “학장상”**
 - [AI/ Spring(Java)] 컴퓨터학부 소프트웨어공모전 - 'healthoongjang'
@@ -57,9 +68,23 @@ ex) Ha Hyun Sang, ,,
 **🏆 제 2회 SW/콘텐츠 분야 벤터스타트업 아카데미 해커톤 대회 “우수상”, "HACK인싸상"**
 - [Spring(Java)] 서퍼톤 - '발자취'
 
+## 🍀 Activity
+
+- (2021.06~2022.08) 융합특성화자유전공학부 학생회 - 사무국 차장
+- (2022.03~2024.02) 학생복지위원회 - 위원장
+- (2022.07~2023.01) 스파르타코딩클럽 - editer
+- (2022.08) 기술보증기금 청년기술평가체험단 5기
+- (2022.09~2022.12) 숭실대학교 공학기자단 9기
+- (2022.09~2023.07) UMC 3기 Back-end, 4기 총무
+- (2022.09~ing) GDSC 2기, 3기
+- (2023.03~2023.07) CJUNIT 8기
+- (2023.08~2023.12) KUSITMS(한국대학생IT경영학회)
+- (2024.03~2024.07) SOPT 34기 서버파트
+
 <!--
 **sebbbin/sebbbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🏫
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
