@@ -80,6 +80,7 @@ etc..
 - (2023.03~2023.07) CJUNIT 8기
 - (2023.08~2023.12) KUSITMS(한국대학생IT경영학회)
 - (2024.03~2024.07) SOPT 34기 서버파트
+- (2024.12~) 비바리퍼블리카(Toss) IT Admin
 
 <!--
 **sebbbin/sebbbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
